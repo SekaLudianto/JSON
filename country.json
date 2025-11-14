@@ -1,0 +1,1747 @@
+{
+  "daftar_negara": [
+    {
+      "nama_resmi": "Republik Afghanistan",
+      "nama_umum": "Afghanistan",
+      "kode_iso_alpha2": "AF",
+      "kode_iso_alpha3": "AFG",
+      "kode_iso_numerik": "004"
+    },
+    {
+      "nama_resmi": "Republik Albania",
+      "nama_umum": "Albania",
+      "kode_iso_alpha2": "AL",
+      "kode_iso_alpha3": "ALB",
+      "kode_iso_numerik": "008"
+    },
+    {
+      "nama_resmi": "Republik Demokratik Rakyat Aljazair",
+      "nama_umum": "Aljazair",
+      "kode_iso_alpha2": "DZ",
+      "kode_iso_alpha3": "DZA",
+      "kode_iso_numerik": "012"
+    },
+    {
+      "nama_resmi": "Samoa Amerika",
+      "nama_umum": "Samoa Amerika",
+      "kode_iso_alpha2": "AS",
+      "kode_iso_alpha3": "ASM",
+      "kode_iso_numerik": "016"
+    },
+    {
+      "nama_resmi": "Kepangeranan Andorra",
+      "nama_umum": "Andorra",
+      "kode_iso_alpha2": "AD",
+      "kode_iso_alpha3": "AND",
+      "kode_iso_numerik": "020"
+    },
+    {
+      "nama_resmi": "Republik Angola",
+      "nama_umum": "Angola",
+      "kode_iso_alpha2": "AO",
+      "kode_iso_alpha3": "AGO",
+      "kode_iso_numerik": "024"
+    },
+    {
+      "nama_resmi": "Anguilla",
+      "nama_umum": "Anguilla",
+      "kode_iso_alpha2": "AI",
+      "kode_iso_alpha3": "AIA",
+      "kode_iso_numerik": "660"
+    },
+    {
+      "nama_resmi": "Antarktika",
+      "nama_umum": "Antarktika",
+      "kode_iso_alpha2": "AQ",
+      "kode_iso_alpha3": "ATA",
+      "kode_iso_numerik": "010"
+    },
+    {
+      "nama_resmi": "Antigua dan Barbuda",
+      "nama_umum": "Antigua dan Barbuda",
+      "kode_iso_alpha2": "AG",
+      "kode_iso_alpha3": "ATG",
+      "kode_iso_numerik": "028"
+    },
+    {
+      "nama_resmi": "Republik Argentina",
+      "nama_umum": "Argentina",
+      "kode_iso_alpha2": "AR",
+      "kode_iso_alpha3": "ARG",
+      "kode_iso_numerik": "032"
+    },
+    {
+      "nama_resmi": "Republik Armenia",
+      "nama_umum": "Armenia",
+      "kode_iso_alpha2": "AM",
+      "kode_iso_alpha3": "ARM",
+      "kode_iso_numerik": "051"
+    },
+    {
+      "nama_resmi": "Aruba",
+      "nama_umum": "Aruba",
+      "kode_iso_alpha2": "AW",
+      "kode_iso_alpha3": "ABW",
+      "kode_iso_numerik": "533"
+    },
+    {
+      "nama_resmi": "Australia",
+      "nama_umum": "Australia",
+      "kode_iso_alpha2": "AU",
+      "kode_iso_alpha3": "AUS",
+      "kode_iso_numerik": "036"
+    },
+    {
+      "nama_resmi": "Republik Austria",
+      "nama_umum": "Austria",
+      "kode_iso_alpha2": "AT",
+      "kode_iso_alpha3": "AUT",
+      "kode_iso_numerik": "040"
+    },
+    {
+      "nama_resmi": "Republik Azerbaijan",
+      "nama_umum": "Azerbaijan",
+      "kode_iso_alpha2": "AZ",
+      "kode_iso_alpha3": "AZE",
+      "kode_iso_numerik": "031"
+    },
+    {
+      "nama_resmi": "Bahama",
+      "nama_umum": "Bahama",
+      "kode_iso_alpha2": "BS",
+      "kode_iso_alpha3": "BHS",
+      "kode_iso_numerik": "044"
+    },
+    {
+      "nama_resmi": "Kerajaan Bahrain",
+      "nama_umum": "Bahrain",
+      "kode_iso_alpha2": "BH",
+      "kode_iso_alpha3": "BHR",
+      "kode_iso_numerik": "048"
+    },
+    {
+      "nama_resmi": "Republik Rakyat Bangladesh",
+      "nama_umum": "Bangladesh",
+      "kode_iso_alpha2": "BD",
+      "kode_iso_alpha3": "BGD",
+      "kode_iso_numerik": "050"
+    },
+    {
+      "nama_resmi": "Barbados",
+      "nama_umum": "Barbados",
+      "kode_iso_alpha2": "BB",
+      "kode_iso_alpha3": "BRB",
+      "kode_iso_numerik": "052"
+    },
+    {
+      "nama_resmi": "Republik Belarus",
+      "nama_umum": "Belarus",
+      "kode_iso_alpha2": "BY",
+      "kode_iso_alpha3": "BLR",
+      "kode_iso_numerik": "112"
+    },
+    {
+      "nama_resmi": "Kerajaan Belgia",
+      "nama_umum": "Belgia",
+      "kode_iso_alpha2": "BE",
+      "kode_iso_alpha3": "BEL",
+      "kode_iso_numerik": "056"
+    },
+    {
+      "nama_resmi": "Belize",
+      "nama_umum": "Belize",
+      "kode_iso_alpha2": "BZ",
+      "kode_iso_alpha3": "BLZ",
+      "kode_iso_numerik": "084"
+    },
+    {
+      "nama_resmi": "Republik Benin",
+      "nama_umum": "Benin",
+      "kode_iso_alpha2": "BJ",
+      "kode_iso_alpha3": "BEN",
+      "kode_iso_numerik": "204"
+    },
+    {
+      "nama_resmi": "Bermuda",
+      "nama_umum": "Bermuda",
+      "kode_iso_alpha2": "BM",
+      "kode_iso_alpha3": "BMU",
+      "kode_iso_numerik": "060"
+    },
+    {
+      "nama_resmi": "Kerajaan Bhutan",
+      "nama_umum": "Bhutan",
+      "kode_iso_alpha2": "BT",
+      "kode_iso_alpha3": "BTN",
+      "kode_iso_numerik": "064"
+    },
+    {
+      "nama_resmi": "Negara Plurinasional Bolivia",
+      "nama_umum": "Bolivia",
+      "kode_iso_alpha2": "BO",
+      "kode_iso_alpha3": "BOL",
+      "kode_iso_numerik": "068"
+    },
+    {
+      "nama_resmi": "Bonaire, Sint Eustatius dan Saba",
+      "nama_umum": "Bonaire, Sint Eustatius dan Saba",
+      "kode_iso_alpha2": "BQ",
+      "kode_iso_alpha3": "BES",
+      "kode_iso_numerik": "535"
+    },
+    {
+      "nama_resmi": "Kerajaan Bosnia dan Herzegovina",
+      "nama_umum": "Bosnia dan Herzegovina",
+      "kode_iso_alpha2": "BA",
+      "kode_iso_alpha3": "BIH",
+      "kode_iso_numerik": "070"
+    },
+    {
+      "nama_resmi": "Republik Botswana",
+      "nama_umum": "Botswana",
+      "kode_iso_alpha2": "BW",
+      "kode_iso_alpha3": "BWA",
+      "kode_iso_numerik": "072"
+    },
+    {
+      "nama_resmi": "Pulau Bouvet",
+      "nama_umum": "Pulau Bouvet",
+      "kode_iso_alpha2": "BV",
+      "kode_iso_alpha3": "BVT",
+      "kode_iso_numerik": "074"
+    },
+    {
+      "nama_resmi": "Republik Federatif Brasil",
+      "nama_umum": "Brasil",
+      "kode_iso_alpha2": "BR",
+      "kode_iso_alpha3": "BRA",
+      "kode_iso_numerik": "076"
+    },
+    {
+      "nama_resmi": "Wilayah Samudra Hindia Britania",
+      "nama_umum": "Wilayah Samudra Hindia Britania",
+      "kode_iso_alpha2": "IO",
+      "kode_iso_alpha3": "IOT",
+      "kode_iso_numerik": "086"
+    },
+    {
+      "nama_resmi": "Kepulauan Virgin Amerika Serikat",
+      "nama_umum": "Kepulauan Virgin Amerika Serikat",
+      "kode_iso_alpha2": "VI",
+      "kode_iso_alpha3": "VIR",
+      "kode_iso_numerik": "850"
+    },
+    {
+      "nama_resmi": "Negara Brunei Darussalam",
+      "nama_umum": "Brunei",
+      "kode_iso_alpha2": "BN",
+      "kode_iso_alpha3": "BRN",
+      "kode_iso_numerik": "096"
+    },
+    {
+      "nama_resmi": "Republik Bulgaria",
+      "nama_umum": "Bulgaria",
+      "kode_iso_alpha2": "BG",
+      "kode_iso_alpha3": "BGR",
+      "kode_iso_numerik": "100"
+    },
+    {
+      "nama_resmi": "Republik Burkina Faso",
+      "nama_umum": "Burkina Faso",
+      "kode_iso_alpha2": "BF",
+      "kode_iso_alpha3": "BFA",
+      "kode_iso_numerik": "854"
+    },
+    {
+      "nama_resmi": "Republik Burundi",
+      "nama_umum": "Burundi",
+      "kode_iso_alpha2": "BI",
+      "kode_iso_alpha3": "BDI",
+      "kode_iso_numerik": "108"
+    },
+    {
+      "nama_resmi": "Kerajaan Kamboja",
+      "nama_umum": "Kamboja",
+      "kode_iso_alpha2": "KH",
+      "kode_iso_alpha3": "KHM",
+      "kode_iso_numerik": "116"
+    },
+    {
+      "nama_resmi": "Republik Kamerun",
+      "nama_umum": "Kamerun",
+      "kode_iso_alpha2": "CM",
+      "kode_iso_alpha3": "CMR",
+      "kode_iso_numerik": "120"
+    },
+    {
+      "nama_resmi": "Kanada",
+      "nama_umum": "Kanada",
+      "kode_iso_alpha2": "CA",
+      "kode_iso_alpha3": "CAN",
+      "kode_iso_numerik": "124"
+    },
+    {
+      "nama_resmi": "Republik Tanjung Verde",
+      "nama_umum": "Tanjung Verde",
+      "kode_iso_alpha2": "CV",
+      "kode_iso_alpha3": "CPV",
+      "kode_iso_numerik": "132"
+    },
+    {
+      "nama_resmi": "Kepulauan Cayman",
+      "nama_umum": "Kepulauan Cayman",
+      "kode_iso_alpha2": "KY",
+      "kode_iso_alpha3": "CYM",
+      "kode_iso_numerik": "136"
+    },
+    {
+      "nama_resmi": "Republik Afrika Tengah",
+      "nama_umum": "Afrika Tengah",
+      "kode_iso_alpha2": "CF",
+      "kode_iso_alpha3": "CAF",
+      "kode_iso_numerik": "140"
+    },
+    {
+      "nama_resmi": "Republik Chad",
+      "nama_umum": "Chad",
+      "kode_iso_alpha2": "TD",
+      "kode_iso_alpha3": "TCD",
+      "kode_iso_numerik": "148"
+    },
+    {
+      "nama_resmi": "Republik Chili",
+      "nama_umum": "Chili",
+      "kode_iso_alpha2": "CL",
+      "kode_iso_alpha3": "CHL",
+      "kode_iso_numerik": "152"
+    },
+    {
+      "nama_resmi": "Republik Rakyat Tiongkok",
+      "nama_umum": "Tiongkok",
+      "kode_iso_alpha2": "CN",
+      "kode_iso_alpha3": "CHN",
+      "kode_iso_numerik": "156"
+    },
+    {
+      "nama_resmi": "Pulau Christmas",
+      "nama_umum": "Pulau Christmas",
+      "kode_iso_alpha2": "CX",
+      "kode_iso_alpha3": "CXR",
+      "kode_iso_numerik": "162"
+    },
+    {
+      "nama_resmi": "Kepulauan Cocos (Keeling)",
+      "nama_umum": "Kepulauan Cocos (Keeling)",
+      "kode_iso_alpha2": "CC",
+      "kode_iso_alpha3": "CCK",
+      "kode_iso_numerik": "166"
+    },
+    {
+      "nama_resmi": "Republik Kolombia",
+      "nama_umum": "Kolombia",
+      "kode_iso_alpha2": "CO",
+      "kode_iso_alpha3": "COL",
+      "kode_iso_numerik": "170"
+    },
+    {
+      "nama_resmi": "Komoro",
+      "nama_umum": "Komoro",
+      "kode_iso_alpha2": "KM",
+      "kode_iso_alpha3": "COM",
+      "kode_iso_numerik": "174"
+    },
+    {
+      "nama_resmi": "Republik Demokratik Kongo",
+      "nama_umum": "Republik Demokratik Kongo",
+      "kode_iso_alpha2": "CD",
+      "kode_iso_alpha3": "COD",
+      "kode_iso_numerik": "180"
+    },
+    {
+      "nama_resmi": "Republik Kongo",
+      "nama_umum": "Republik Kongo",
+      "kode_iso_alpha2": "CG",
+      "kode_iso_alpha3": "COG",
+      "kode_iso_numerik": "178"
+    },
+    {
+      "nama_resmi": "Kepulauan Cook",
+      "nama_umum": "Kepulauan Cook",
+      "kode_iso_alpha2": "CK",
+      "kode_iso_alpha3": "COK",
+      "kode_iso_numerik": "184"
+    },
+    {
+      "nama_resmi": "Republik Kosta Rika",
+      "nama_umum": "Kosta Rika",
+      "kode_iso_alpha2": "CR",
+      "kode_iso_alpha3": "CRI",
+      "kode_iso_numerik": "188"
+    },
+    {
+      "nama_resmi": "Republik Côte d'Ivoire",
+      "nama_umum": "Pantai Gading",
+      "kode_iso_alpha2": "CI",
+      "kode_iso_alpha3": "CIV",
+      "kode_iso_numerik": "384"
+    },
+    {
+      "nama_resmi": "Republik Kroasia",
+      "nama_umum": "Kroasia",
+      "kode_iso_alpha2": "HR",
+      "kode_iso_alpha3": "HRV",
+      "kode_iso_numerik": "191"
+    },
+    {
+      "nama_resmi": "Republik Kuba",
+      "nama_umum": "Kuba",
+      "kode_iso_alpha2": "CU",
+      "kode_iso_alpha3": "CUB",
+      "kode_iso_numerik": "192"
+    },
+    {
+      "nama_resmi": "Curaçao",
+      "nama_umum": "Curaçao",
+      "kode_iso_alpha2": "CW",
+      "kode_iso_alpha3": "CUW",
+      "kode_iso_numerik": "531"
+    },
+    {
+      "nama_resmi": "Republik Siprus",
+      "nama_umum": "Siprus",
+      "kode_iso_alpha2": "CY",
+      "kode_iso_alpha3": "CYP",
+      "kode_iso_numerik": "196"
+    },
+    {
+      "nama_resmi": "Republik Ceko",
+      "nama_umum": "Ceko",
+      "kode_iso_alpha2": "CZ",
+      "kode_iso_alpha3": "CZE",
+      "kode_iso_numerik": "203"
+    },
+    {
+      "nama_resmi": "Kerajaan Denmark",
+      "nama_umum": "Denmark",
+      "kode_iso_alpha2": "DK",
+      "kode_iso_alpha3": "DNK",
+      "kode_iso_numerik": "208"
+    },
+    {
+      "nama_resmi": "Republik Djibouti",
+      "nama_umum": "Djibouti",
+      "kode_iso_alpha2": "DJ",
+      "kode_iso_alpha3": "DJI",
+      "kode_iso_numerik": "262"
+    },
+    {
+      "nama_resmi": "Kepulauan Dominika",
+      "nama_umum": "Dominika",
+      "kode_iso_alpha2": "DM",
+      "kode_iso_alpha3": "DMA",
+      "kode_iso_numerik": "212"
+    },
+    {
+      "nama_resmi": "Republik Dominika",
+      "nama_umum": "Republik Dominika",
+      "kode_iso_alpha2": "DO",
+      "kode_iso_alpha3": "DOM",
+      "kode_iso_numerik": "214"
+    },
+    {
+      "nama_resmi": "Republik Ekuador",
+      "nama_umum": "Ekuador",
+      "kode_iso_alpha2": "EC",
+      "kode_iso_alpha3": "ECU",
+      "kode_iso_numerik": "218"
+    },
+    {
+      "nama_resmi": "Republik Arab Mesir",
+      "nama_umum": "Mesir",
+      "kode_iso_alpha2": "EG",
+      "kode_iso_alpha3": "EGY",
+      "kode_iso_numerik": "818"
+    },
+    {
+      "nama_resmi": "Republik El Salvador",
+      "nama_umum": "El Salvador",
+      "kode_iso_alpha2": "SV",
+      "kode_iso_alpha3": "SLV",
+      "kode_iso_numerik": "222"
+    },
+    {
+      "nama_resmi": "Republik Khatulistiwa Guinea",
+      "nama_umum": "Guinea Khatulistiwa",
+      "kode_iso_alpha2": "GQ",
+      "kode_iso_alpha3": "GNQ",
+      "kode_iso_numerik": "226"
+    },
+    {
+      "nama_resmi": "Republik Eritrea",
+      "nama_umum": "Eritrea",
+      "kode_iso_alpha2": "ER",
+      "kode_iso_alpha3": "ERI",
+      "kode_iso_numerik": "232"
+    },
+    {
+      "nama_resmi": "Republik Estonia",
+      "nama_umum": "Estonia",
+      "kode_iso_alpha2": "EE",
+      "kode_iso_alpha3": "EST",
+      "kode_iso_numerik": "233"
+    },
+    {
+      "nama_resmi": "Kerajaan Eswatini",
+      "nama_umum": "Eswatini",
+      "kode_iso_alpha2": "SZ",
+      "kode_iso_alpha3": "SWZ",
+      "kode_iso_numerik": "748"
+    },
+    {
+      "nama_resmi": "Republik Demokratik Federal Ethiopia",
+      "nama_umum": "Ethiopia",
+      "kode_iso_alpha2": "ET",
+      "kode_iso_alpha3": "ETH",
+      "kode_iso_numerik": "231"
+    },
+    {
+      "nama_resmi": "Kepulauan Falkland (Malvinas)",
+      "nama_umum": "Kepulauan Falkland",
+      "kode_iso_alpha2": "FK",
+      "kode_iso_alpha3": "FLK",
+      "kode_iso_numerik": "238"
+    },
+    {
+      "nama_resmi": "Kepulauan Faroe",
+      "nama_umum": "Kepulauan Faroe",
+      "kode_iso_alpha2": "FO",
+      "kode_iso_alpha3": "FRO",
+      "kode_iso_numerik": "234"
+    },
+    {
+      "nama_resmi": "Republik Fiji",
+      "nama_umum": "Fiji",
+      "kode_iso_alpha2": "FJ",
+      "kode_iso_alpha3": "FJI",
+      "kode_iso_numerik": "242"
+    },
+    {
+      "nama_resmi": "Republik Finlandia",
+      "nama_umum": "Finlandia",
+      "kode_iso_alpha2": "FI",
+      "kode_iso_alpha3": "FIN",
+      "kode_iso_numerik": "246"
+    },
+    {
+      "nama_resmi": "Republik Prancis",
+      "nama_umum": "Prancis",
+      "kode_iso_alpha2": "FR",
+      "kode_iso_alpha3": "FRA",
+      "kode_iso_numerik": "250"
+    },
+    {
+      "nama_resmi": "Guyana Prancis",
+      "nama_umum": "Guyana Prancis",
+      "kode_iso_alpha2": "GF",
+      "kode_iso_alpha3": "GUF",
+      "kode_iso_numerik": "254"
+    },
+    {
+      "nama_resmi": "Polinesia Prancis",
+      "nama_umum": "Polinesia Prancis",
+      "kode_iso_alpha2": "PF",
+      "kode_iso_alpha3": "PYF",
+      "kode_iso_numerik": "258"
+    },
+    {
+      "nama_resmi": "Wilayah Selatan Prancis",
+      "nama_umum": "Wilayah Selatan Prancis",
+      "kode_iso_alpha2": "TF",
+      "kode_iso_alpha3": "ATF",
+      "kode_iso_numerik": "260"
+    },
+    {
+      "nama_resmi": "Republik Gabon",
+      "nama_umum": "Gabon",
+      "kode_iso_alpha2": "GA",
+      "kode_iso_alpha3": "GAB",
+      "kode_iso_numerik": "266"
+    },
+    {
+      "nama_resmi": "Republik Gambia",
+      "nama_umum": "Gambia",
+      "kode_iso_alpha2": "GM",
+      "kode_iso_alpha3": "GMB",
+      "kode_iso_numerik": "270"
+    },
+    {
+      "nama_resmi": "Georgia",
+      "nama_umum": "Georgia",
+      "kode_iso_alpha2": "GE",
+      "kode_iso_alpha3": "GEO",
+      "kode_iso_numerik": "268"
+    },
+    {
+      "nama_resmi": "Republik Federal Jerman",
+      "nama_umum": "Jerman",
+      "kode_iso_alpha2": "DE",
+      "kode_iso_alpha3": "DEU",
+      "kode_iso_numerik": "276"
+    },
+    {
+      "nama_resmi": "Republik Ghana",
+      "nama_umum": "Ghana",
+      "kode_iso_alpha2": "GH",
+      "kode_iso_alpha3": "GHA",
+      "kode_iso_numerik": "288"
+    },
+    {
+      "nama_resmi": "Gibraltar",
+      "nama_umum": "Gibraltar",
+      "kode_iso_alpha2": "GI",
+      "kode_iso_alpha3": "GIB",
+      "kode_iso_numerik": "292"
+    },
+    {
+      "nama_resmi": "Republik Hellenik",
+      "nama_umum": "Yunani",
+      "kode_iso_alpha2": "GR",
+      "kode_iso_alpha3": "GRC",
+      "kode_iso_numerik": "300"
+    },
+    {
+      "nama_resmi": "Greenland",
+      "nama_umum": "Greenland",
+      "kode_iso_alpha2": "GL",
+      "kode_iso_alpha3": "GRL",
+      "kode_iso_numerik": "304"
+    },
+    {
+      "nama_resmi": "Grenada",
+      "nama_umum": "Grenada",
+      "kode_iso_alpha2": "GD",
+      "kode_iso_alpha3": "GRD",
+      "kode_iso_numerik": "308"
+    },
+    {
+      "nama_resmi": "Guadeloupe",
+      "nama_umum": "Guadeloupe",
+      "kode_iso_alpha2": "GP",
+      "kode_iso_alpha3": "GLP",
+      "kode_iso_numerik": "312"
+    },
+    {
+      "nama_resmi": "Guam",
+      "nama_umum": "Guam",
+      "kode_iso_alpha2": "GU",
+      "kode_iso_alpha3": "GUM",
+      "kode_iso_numerik": "316"
+    },
+    {
+      "nama_resmi": "Republik Guatemala",
+      "nama_umum": "Guatemala",
+      "kode_iso_alpha2": "GT",
+      "kode_iso_alpha3": "GTM",
+      "kode_iso_numerik": "320"
+    },
+    {
+      "nama_resmi": "Guernsey",
+      "nama_umum": "Guernsey",
+      "kode_iso_alpha2": "GG",
+      "kode_iso_alpha3": "GGY",
+      "kode_iso_numerik": "831"
+    },
+    {
+      "nama_resmi": "Republik Guinea",
+      "nama_umum": "Guinea",
+      "kode_iso_alpha2": "GN",
+      "kode_iso_alpha3": "GIN",
+      "kode_iso_numerik": "324"
+    },
+    {
+      "nama_resmi": "Republik Guinea-Bissau",
+      "nama_umum": "Guinea-Bissau",
+      "kode_iso_alpha2": "GW",
+      "kode_iso_alpha3": "GNB",
+      "kode_iso_numerik": "624"
+    },
+    {
+      "nama_resmi": "Republik Guyana",
+      "nama_umum": "Guyana",
+      "kode_iso_alpha2": "GY",
+      "kode_iso_alpha3": "GUY",
+      "kode_iso_numerik": "328"
+    },
+    {
+      "nama_resmi": "Republik Haiti",
+      "nama_umum": "Haiti",
+      "kode_iso_alpha2": "HT",
+      "kode_iso_alpha3": "HTI",
+      "kode_iso_numerik": "332"
+    },
+    {
+      "nama_resmi": "Pulau Heard dan Kepulauan McDonald",
+      "nama_umum": "Pulau Heard dan Kepulauan McDonald",
+      "kode_iso_alpha2": "HM",
+      "kode_iso_alpha3": "HMD",
+      "kode_iso_numerik": "334"
+    },
+    {
+      "nama_resmi": "Takhta Suci",
+      "nama_umum": "Vatikan",
+      "kode_iso_alpha2": "VA",
+      "kode_iso_alpha3": "VAT",
+      "kode_iso_numerik": "336"
+    },
+    {
+      "nama_resmi": "Republik Honduras",
+      "nama_umum": "Honduras",
+      "kode_iso_alpha2": "HN",
+      "kode_iso_alpha3": "HND",
+      "kode_iso_numerik": "340"
+    },
+    {
+      "nama_resmi": "Daerah Administratif Khusus Hong Kong Tiongkok",
+      "nama_umum": "Hong Kong",
+      "kode_iso_alpha2": "HK",
+      "kode_iso_alpha3": "HKG",
+      "kode_iso_numerik": "344"
+    },
+    {
+      "nama_resmi": "Hongaria",
+      "nama_umum": "Hongaria",
+      "kode_iso_alpha2": "HU",
+      "kode_iso_alpha3": "HUN",
+      "kode_iso_numerik": "348"
+    },
+    {
+      "nama_resmi": "Republik Islandia",
+      "nama_umum": "Islandia",
+      "kode_iso_alpha2": "IS",
+      "kode_iso_alpha3": "ISL",
+      "kode_iso_numerik": "352"
+    },
+    {
+      "nama_resmi": "Republik India",
+      "nama_umum": "India",
+      "kode_iso_alpha2": "IN",
+      "kode_iso_alpha3": "IND",
+      "kode_iso_numerik": "356"
+    },
+    {
+      "nama_resmi": "Republik Indonesia",
+      "nama_umum": "Indonesia",
+      "kode_iso_alpha2": "ID",
+      "kode_iso_alpha3": "IDN",
+      "kode_iso_numerik": "360"
+    },
+    {
+      "nama_resmi": "Republik Islam Iran",
+      "nama_umum": "Iran",
+      "kode_iso_alpha2": "IR",
+      "kode_iso_alpha3": "IRN",
+      "kode_iso_numerik": "364"
+    },
+    {
+      "nama_resmi": "Republik Irak",
+      "nama_umum": "Irak",
+      "kode_iso_alpha2": "IQ",
+      "kode_iso_alpha3": "IRQ",
+      "kode_iso_numerik": "368"
+    },
+    {
+      "nama_resmi": "Irlandia",
+      "nama_umum": "Irlandia",
+      "kode_iso_alpha2": "IE",
+      "kode_iso_alpha3": "IRL",
+      "kode_iso_numerik": "372"
+    },
+    {
+      "nama_resmi": "Isle of Man",
+      "nama_umum": "Isle of Man",
+      "kode_iso_alpha2": "IM",
+      "kode_iso_alpha3": "IMN",
+      "kode_iso_numerik": "833"
+    },
+    {
+      "nama_resmi": "Negara Israel",
+      "nama_umum": "Israel",
+      "kode_iso_alpha2": "IL",
+      "kode_iso_alpha3": "ISR",
+      "kode_iso_numerik": "376"
+    },
+    {
+      "nama_resmi": "Republik Italia",
+      "nama_umum": "Italia",
+      "kode_iso_alpha2": "IT",
+      "kode_iso_alpha3": "ITA",
+      "kode_iso_numerik": "380"
+    },
+    {
+      "nama_resmi": "Jamaika",
+      "nama_umum": "Jamaika",
+      "kode_iso_alpha2": "JM",
+      "kode_iso_alpha3": "JAM",
+      "kode_iso_numerik": "388"
+    },
+    {
+      "nama_resmi": "Jepang",
+      "nama_umum": "Jepang",
+      "kode_iso_alpha2": "JP",
+      "kode_iso_alpha3": "JPN",
+      "kode_iso_numerik": "392"
+    },
+    {
+      "nama_resmi": "Jersey",
+      "nama_umum": "Jersey",
+      "kode_iso_alpha2": "JE",
+      "kode_iso_alpha3": "JEY",
+      "kode_iso_numerik": "832"
+    },
+    {
+      "nama_resmi": "Kerajaan Yordania",
+      "nama_umum": "Yordania",
+      "kode_iso_alpha2": "JO",
+      "kode_iso_alpha3": "JOR",
+      "kode_iso_numerik": "400"
+    },
+    {
+      "nama_resmi": "Republik Kazakhstan",
+      "nama_umum": "Kazakhstan",
+      "kode_iso_alpha2": "KZ",
+      "kode_iso_alpha3": "KAZ",
+      "kode_iso_numerik": "398"
+    },
+    {
+      "nama_resmi": "Republik Kenya",
+      "nama_umum": "Kenya",
+      "kode_iso_alpha2": "KE",
+      "kode_iso_alpha3": "KEN",
+      "kode_iso_numerik": "404"
+    },
+    {
+      "nama_resmi": "Republik Kiribati",
+      "nama_umum": "Kiribati",
+      "kode_iso_alpha2": "KI",
+      "kode_iso_alpha3": "KIR",
+      "kode_iso_numerik": "296"
+    },
+    {
+      "nama_resmi": "Republik Demokratik Rakyat Korea",
+      "nama_umum": "Korea Utara",
+      "kode_iso_alpha2": "KP",
+      "kode_iso_alpha3": "PRK",
+      "kode_iso_numerik": "408"
+    },
+    {
+      "nama_resmi": "Republik Korea",
+      "nama_umum": "Korea Selatan",
+      "kode_iso_alpha2": "KR",
+      "kode_iso_alpha3": "KOR",
+      "kode_iso_numerik": "410"
+    },
+    {
+      "nama_resmi": "Kosovo",
+      "nama_umum": "Kosovo",
+      "kode_iso_alpha2": "XK",
+      "kode_iso_alpha3": "XKX",
+      "kode_iso_numerik": "983"
+    },
+    {
+      "nama_resmi": "Negara Kuwait",
+      "nama_umum": "Kuwait",
+      "kode_iso_alpha2": "KW",
+      "kode_iso_alpha3": "KWT",
+      "kode_iso_numerik": "414"
+    },
+    {
+      "nama_resmi": "Republik Kirgizstan",
+      "nama_umum": "Kirgizstan",
+      "kode_iso_alpha2": "KG",
+      "kode_iso_alpha3": "KGZ",
+      "kode_iso_numerik": "417"
+    },
+    {
+      "nama_resmi": "Republik Demokratik Rakyat Laos",
+      "nama_umum": "Laos",
+      "kode_iso_alpha2": "LA",
+      "kode_iso_alpha3": "LAO",
+      "kode_iso_numerik": "418"
+    },
+    {
+      "nama_resmi": "Republik Latvia",
+      "nama_umum": "Latvia",
+      "kode_iso_alpha2": "LV",
+      "kode_iso_alpha3": "LVA",
+      "kode_iso_numerik": "428"
+    },
+    {
+      "nama_resmi": "Republik Lebanon",
+      "nama_umum": "Lebanon",
+      "kode_iso_alpha2": "LB",
+      "kode_iso_alpha3": "LBN",
+      "kode_iso_numerik": "422"
+    },
+    {
+      "nama_resmi": "Republik Lesotho",
+      "nama_umum": "Lesotho",
+      "kode_iso_alpha2": "LS",
+      "kode_iso_alpha3": "LSO",
+      "kode_iso_numerik": "426"
+    },
+    {
+      "nama_resmi": "Republik Liberia",
+      "nama_umum": "Liberia",
+      "kode_iso_alpha2": "LR",
+      "kode_iso_alpha3": "LBR",
+      "kode_iso_numerik": "430"
+    },
+    {
+      "nama_resmi": "Negara Libya",
+      "nama_umum": "Libya",
+      "kode_iso_alpha2": "LY",
+      "kode_iso_alpha3": "LBY",
+      "kode_iso_numerik": "434"
+    },
+    {
+      "nama_resmi": "Kepangeranan Liechtenstein",
+      "nama_umum": "Liechtenstein",
+      "kode_iso_alpha2": "LI",
+      "kode_iso_alpha3": "LIE",
+      "kode_iso_numerik": "438"
+    },
+    {
+      "nama_resmi": "Republik Lituania",
+      "nama_umum": "Lituania",
+      "kode_iso_alpha2": "LT",
+      "kode_iso_alpha3": "LTU",
+      "kode_iso_numerik": "440"
+    },
+    {
+      "nama_resmi": "Kepangeranan Luksemburg",
+      "nama_umum": "Luksemburg",
+      "kode_iso_alpha2": "LU",
+      "kode_iso_alpha3": "LUX",
+      "kode_iso_numerik": "442"
+    },
+    {
+      "nama_resmi": "Daerah Administratif Khusus Makau Tiongkok",
+      "nama_umum": "Makau",
+      "kode_iso_alpha2": "MO",
+      "kode_iso_alpha3": "MAC",
+      "kode_iso_numerik": "446"
+    },
+    {
+      "nama_resmi": "Republik Madagaskar",
+      "nama_umum": "Madagaskar",
+      "kode_iso_alpha2": "MG",
+      "kode_iso_alpha3": "MDG",
+      "kode_iso_numerik": "450"
+    },
+    {
+      "nama_resmi": "Republik Malawi",
+      "nama_umum": "Malawi",
+      "kode_iso_alpha2": "MW",
+      "kode_iso_alpha3": "MWI",
+      "kode_iso_numerik": "454"
+    },
+    {
+      "nama_resmi": "Malaysia",
+      "nama_umum": "Malaysia",
+      "kode_iso_alpha2": "MY",
+      "kode_iso_alpha3": "MYS",
+      "kode_iso_numerik": "458"
+    },
+    {
+      "nama_resmi": "Republik Maladewa",
+      "nama_umum": "Maladewa",
+      "kode_iso_alpha2": "MV",
+      "kode_iso_alpha3": "MDV",
+      "kode_iso_numerik": "462"
+    },
+    {
+      "nama_resmi": "Republik Mali",
+      "nama_umum": "Mali",
+      "kode_iso_alpha2": "ML",
+      "kode_iso_alpha3": "MLI",
+      "kode_iso_numerik": "466"
+    },
+    {
+      "nama_resmi": "Republik Malta",
+      "nama_umum": "Malta",
+      "kode_iso_alpha2": "MT",
+      "kode_iso_alpha3": "MLT",
+      "kode_iso_numerik": "470"
+    },
+    {
+      "nama_resmi": "Kepulauan Marshall",
+      "nama_umum": "Kepulauan Marshall",
+      "kode_iso_alpha2": "MH",
+      "kode_iso_alpha3": "MHL",
+      "kode_iso_numerik": "584"
+    },
+    {
+      "nama_resmi": "Martinik",
+      "nama_umum": "Martinik",
+      "kode_iso_alpha2": "MQ",
+      "kode_iso_alpha3": "MTQ",
+      "kode_iso_numerik": "474"
+    },
+    {
+      "nama_resmi": "Republik Islam Mauritania",
+      "nama_umum": "Mauritania",
+      "kode_iso_alpha2": "MR",
+      "kode_iso_alpha3": "MRT",
+      "kode_iso_numerik": "478"
+    },
+    {
+      "nama_resmi": "Republik Mauritius",
+      "nama_umum": "Mauritius",
+      "kode_iso_alpha2": "MU",
+      "kode_iso_alpha3": "MUS",
+      "kode_iso_numerik": "480"
+    },
+    {
+      "nama_resmi": "Mayotte",
+      "nama_umum": "Mayotte",
+      "kode_iso_alpha2": "YT",
+      "kode_iso_alpha3": "MYT",
+      "kode_iso_numerik": "175"
+    },
+    {
+      "nama_resmi": "Republik Persatuan Meksiko",
+      "nama_umum": "Meksiko",
+      "kode_iso_alpha2": "MX",
+      "kode_iso_alpha3": "MEX",
+      "kode_iso_numerik": "484"
+    },
+    {
+      "nama_resmi": "Negara Federasi Mikronesia",
+      "nama_umum": "Mikronesia",
+      "kode_iso_alpha2": "FM",
+      "kode_iso_alpha3": "FSM",
+      "kode_iso_numerik": "583"
+    },
+    {
+      "nama_resmi": "Republik Moldova",
+      "nama_umum": "Moldova",
+      "kode_iso_alpha2": "MD",
+      "kode_iso_alpha3": "MDA",
+      "kode_iso_numerik": "498"
+    },
+    {
+      "nama_resmi": "Kepangeranan Monako",
+      "nama_umum": "Monako",
+      "kode_iso_alpha2": "MC",
+      "kode_iso_alpha3": "MCO",
+      "kode_iso_numerik": "492"
+    },
+    {
+      "nama_resmi": "Mongolia",
+      "nama_umum": "Mongolia",
+      "kode_iso_alpha2": "MN",
+      "kode_iso_alpha3": "MNG",
+      "kode_iso_numerik": "496"
+    },
+    {
+      "nama_resmi": "Montenegro",
+      "nama_umum": "Montenegro",
+      "kode_iso_alpha2": "ME",
+      "kode_iso_alpha3": "MNE",
+      "kode_iso_numerik": "499"
+    },
+    {
+      "nama_resmi": "Montserrat",
+      "nama_umum": "Montserrat",
+      "kode_iso_alpha2": "MS",
+      "kode_iso_alpha3": "MSR",
+      "kode_iso_numerik": "500"
+    },
+    {
+      "nama_resmi": "Kerajaan Maroko",
+      "nama_umum": "Maroko",
+      "kode_iso_alpha2": "MA",
+      "kode_iso_alpha3": "MAR",
+      "kode_iso_numerik": "504"
+    },
+    {
+      "nama_resmi": "Republik Mozambik",
+      "nama_umum": "Mozambik",
+      "kode_iso_alpha2": "MZ",
+      "kode_iso_alpha3": "MOZ",
+      "kode_iso_numerik": "508"
+    },
+    {
+      "nama_resmi": "Republik Persatuan Myanmar",
+      "nama_umum": "Myanmar",
+      "kode_iso_alpha2": "MM",
+      "kode_iso_alpha3": "MMR",
+      "kode_iso_numerik": "104"
+    },
+    {
+      "nama_resmi": "Republik Namibia",
+      "nama_umum": "Namibia",
+      "kode_iso_alpha2": "NA",
+      "kode_iso_alpha3": "NAM",
+      "kode_iso_numerik": "516"
+    },
+    {
+      "nama_resmi": "Republik Nauru",
+      "nama_umum": "Nauru",
+      "kode_iso_alpha2": "NR",
+      "kode_iso_alpha3": "NRU",
+      "kode_iso_numerik": "520"
+    },
+    {
+      "nama_resmi": "Kerajaan Nepal",
+      "nama_umum": "Nepal",
+      "kode_iso_alpha2": "NP",
+      "kode_iso_alpha3": "NPL",
+      "kode_iso_numerik": "524"
+    },
+    {
+      "nama_resmi": "Kerajaan Belanda",
+      "nama_umum": "Belanda",
+      "kode_iso_alpha2": "NL",
+      "kode_iso_alpha3": "NLD",
+      "kode_iso_numerik": "528"
+    },
+    {
+      "nama_resmi": "Kaledonia Baru",
+      "nama_umum": "Kaledonia Baru",
+      "kode_iso_alpha2": "NC",
+      "kode_iso_alpha3": "NCL",
+      "kode_iso_numerik": "540"
+    },
+    {
+      "nama_resmi": "Selandia Baru",
+      "nama_umum": "Selandia Baru",
+      "kode_iso_alpha2": "NZ",
+      "kode_iso_alpha3": "NZL",
+      "kode_iso_numerik": "554"
+    },
+    {
+      "nama_resmi": "Republik Nikaragua",
+      "nama_umum": "Nikaragua",
+      "kode_iso_alpha2": "NI",
+      "kode_iso_alpha3": "NIC",
+      "kode_iso_numerik": "558"
+    },
+    {
+      "nama_resmi": "Republik Niger",
+      "nama_umum": "Niger",
+      "kode_iso_alpha2": "NE",
+      "kode_iso_alpha3": "NER",
+      "kode_iso_numerik": "562"
+    },
+    {
+      "nama_resmi": "Republik Federal Nigeria",
+      "nama_umum": "Nigeria",
+      "kode_iso_alpha2": "NG",
+      "kode_iso_alpha3": "NGA",
+      "kode_iso_numerik": "566"
+    },
+    {
+      "nama_resmi": "Niue",
+      "nama_umum": "Niue",
+      "kode_iso_alpha2": "NU",
+      "kode_iso_alpha3": "NIU",
+      "kode_iso_numerik": "570"
+    },
+    {
+      "nama_resmi": "Pulau Norfolk",
+      "nama_umum": "Pulau Norfolk",
+      "kode_iso_alpha2": "NF",
+      "kode_iso_alpha3": "NFK",
+      "kode_iso_numerik": "574"
+    },
+    {
+      "nama_resmi": "Makedonia Utara",
+      "nama_umum": "Makedonia Utara",
+      "kode_iso_alpha2": "MK",
+      "kode_iso_alpha3": "MKD",
+      "kode_iso_numerik": "807"
+    },
+    {
+      "nama_resmi": "Kepulauan Mariana Utara",
+      "nama_umum": "Kepulauan Mariana Utara",
+      "kode_iso_alpha2": "MP",
+      "kode_iso_alpha3": "MNP",
+      "kode_iso_numerik": "580"
+    },
+    {
+      "nama_resmi": "Kerajaan Norwegia",
+      "nama_umum": "Norwegia",
+      "kode_iso_alpha2": "NO",
+      "kode_iso_alpha3": "NOR",
+      "kode_iso_numerik": "578"
+    },
+    {
+      "nama_resmi": "Sultanat Oman",
+      "nama_umum": "Oman",
+      "kode_iso_alpha2": "OM",
+      "kode_iso_alpha3": "OMN",
+      "kode_iso_numerik": "512"
+    },
+    {
+      "nama_resmi": "Republik Islam Pakistan",
+      "nama_umum": "Pakistan",
+      "kode_iso_alpha2": "PK",
+      "kode_iso_alpha3": "PAK",
+      "kode_iso_numerik": "586"
+    },
+    {
+      "nama_resmi": "Republik Palau",
+      "nama_umum": "Palau",
+      "kode_iso_alpha2": "PW",
+      "kode_iso_alpha3": "PLW",
+      "kode_iso_numerik": "585"
+    },
+    {
+      "nama_resmi": "Negara Palestina",
+      "nama_umum": "Palestina",
+      "kode_iso_alpha2": "PS",
+      "kode_iso_alpha3": "PSE",
+      "kode_iso_numerik": "275"
+    },
+    {
+      "nama_resmi": "Republik Panama",
+      "nama_umum": "Panama",
+      "kode_iso_alpha2": "PA",
+      "kode_iso_alpha3": "PAN",
+      "kode_iso_numerik": "591"
+    },
+    {
+      "nama_resmi": "Republik Papua Nugini",
+      "nama_umum": "Papua Nugini",
+      "kode_iso_alpha2": "PG",
+      "kode_iso_alpha3": "PNG",
+      "kode_iso_numerik": "598"
+    },
+    {
+      "nama_resmi": "Republik Paraguay",
+      "nama_umum": "Paraguay",
+      "kode_iso_alpha2": "PY",
+      "kode_iso_alpha3": "PRY",
+      "kode_iso_numerik": "600"
+    },
+    {
+      "nama_resmi": "Republik Peru",
+      "nama_umum": "Peru",
+      "kode_iso_alpha2": "PE",
+      "kode_iso_alpha3": "PER",
+      "kode_iso_numerik": "604"
+    },
+    {
+      "nama_resmi": "Republik Filipina",
+      "nama_umum": "Filipina",
+      "kode_iso_alpha2": "PH",
+      "kode_iso_alpha3": "PHL",
+      "kode_iso_numerik": "608"
+    },
+    {
+      "nama_resmi": "Kepulauan Pitcairn",
+      "nama_umum": "Kepulauan Pitcairn",
+      "kode_iso_alpha2": "PN",
+      "kode_iso_alpha3": "PCN",
+      "kode_iso_numerik": "612"
+    },
+    {
+      "nama_resmi": "Republik Polandia",
+      "nama_umum": "Polandia",
+      "kode_iso_alpha2": "PL",
+      "kode_iso_alpha3": "POL",
+      "kode_iso_numerik": "616"
+    },
+    {
+      "nama_resmi": "Republik Portugal",
+      "nama_umum": "Portugal",
+      "kode_iso_alpha2": "PT",
+      "kode_iso_alpha3": "PRT",
+      "kode_iso_numerik": "620"
+    },
+    {
+      "nama_resmi": "Puerto Riko",
+      "nama_umum": "Puerto Riko",
+      "kode_iso_alpha2": "PR",
+      "kode_iso_alpha3": "PRI",
+      "kode_iso_numerik": "630"
+    },
+    {
+      "nama_resmi": "Negara Qatar",
+      "nama_umum": "Qatar",
+      "kode_iso_alpha2": "QA",
+      "kode_iso_alpha3": "QAT",
+      "kode_iso_numerik": "634"
+    },
+    {
+      "nama_resmi": "Réunion",
+      "nama_umum": "Réunion",
+      "kode_iso_alpha2": "RE",
+      "kode_iso_alpha3": "REU",
+      "kode_iso_numerik": "638"
+    },
+    {
+      "nama_resmi": "Rumania",
+      "nama_umum": "Rumania",
+      "kode_iso_alpha2": "RO",
+      "kode_iso_alpha3": "ROU",
+      "kode_iso_numerik": "642"
+    },
+    {
+      "nama_resmi": "Federasi Rusia",
+      "nama_umum": "Rusia",
+      "kode_iso_alpha2": "RU",
+      "kode_iso_alpha3": "RUS",
+      "kode_iso_numerik": "643"
+    },
+    {
+      "nama_resmi": "Republik Rwanda",
+      "nama_umum": "Rwanda",
+      "kode_iso_alpha2": "RW",
+      "kode_iso_alpha3": "RWA",
+      "kode_iso_numerik": "646"
+    },
+    {
+      "nama_resmi": "Saint Barthélemy",
+      "nama_umum": "Saint Barthélemy",
+      "kode_iso_alpha2": "BL",
+      "kode_iso_alpha3": "BLM",
+      "kode_iso_numerik": "652"
+    },
+    {
+      "nama_resmi": "Saint Helena, Ascension dan Tristan da Cunha",
+      "nama_umum": "Saint Helena, Ascension dan Tristan da Cunha",
+      "kode_iso_alpha2": "SH",
+      "kode_iso_alpha3": "SHN",
+      "kode_iso_numerik": "654"
+    },
+    {
+      "nama_resmi": "Saint Kitts dan Nevis",
+      "nama_umum": "Saint Kitts dan Nevis",
+      "kode_iso_alpha2": "KN",
+      "kode_iso_alpha3": "KNA",
+      "kode_iso_numerik": "659"
+    },
+    {
+      "nama_resmi": "Saint Lucia",
+      "nama_umum": "Saint Lucia",
+      "kode_iso_alpha2": "LC",
+      "kode_iso_alpha3": "LCA",
+      "kode_iso_numerik": "662"
+    },
+    {
+      "nama_resmi": "Saint Martin (bagian Prancis)",
+      "nama_umum": "Saint Martin (Prancis)",
+      "kode_iso_alpha2": "MF",
+      "kode_iso_alpha3": "MAF",
+      "kode_iso_numerik": "663"
+    },
+    {
+      "nama_resmi": "Saint Pierre dan Miquelon",
+      "nama_umum": "Saint Pierre dan Miquelon",
+      "kode_iso_alpha2": "PM",
+      "kode_iso_alpha3": "SPM",
+      "kode_iso_numerik": "666"
+    },
+    {
+      "nama_resmi": "Saint Vincent dan Grenadines",
+      "nama_umum": "Saint Vincent dan Grenadines",
+      "kode_iso_alpha2": "VC",
+      "kode_iso_alpha3": "VCT",
+      "kode_iso_numerik": "670"
+    },
+    {
+      "nama_resmi": "Kerajaan Samoa",
+      "nama_umum": "Samoa",
+      "kode_iso_alpha2": "WS",
+      "kode_iso_alpha3": "WSM",
+      "kode_iso_numerik": "882"
+    },
+    {
+      "nama_resmi": "Republik San Marino",
+      "nama_umum": "San Marino",
+      "kode_iso_alpha2": "SM",
+      "kode_iso_alpha3": "SMR",
+      "kode_iso_numerik": "674"
+    },
+    {
+      "nama_resmi": "Republik Demokratik São Tomé dan Príncipe",
+      "nama_umum": "São Tomé dan Príncipe",
+      "kode_iso_alpha2": "ST",
+      "kode_iso_alpha3": "STP",
+      "kode_iso_numerik": "678"
+    },
+    {
+      "nama_resmi": "Kerajaan Arab Saudi",
+      "nama_umum": "Arab Saudi",
+      "kode_iso_alpha2": "SA",
+      "kode_iso_alpha3": "SAU",
+      "kode_iso_numerik": "682"
+    },
+    {
+      "nama_resmi": "Republik Senegal",
+      "nama_umum": "Senegal",
+      "kode_iso_alpha2": "SN",
+      "kode_iso_alpha3": "SEN",
+      "kode_iso_numerik": "686"
+    },
+    {
+      "nama_resmi": "Republik Serbia",
+      "nama_umum": "Serbia",
+      "kode_iso_alpha2": "RS",
+      "kode_iso_alpha3": "SRB",
+      "kode_iso_numerik": "688"
+    },
+    {
+      "nama_resmi": "Republik Seychelles",
+      "nama_umum": "Seychelles",
+      "kode_iso_alpha2": "SC",
+      "kode_iso_alpha3": "SYC",
+      "kode_iso_numerik": "690"
+    },
+    {
+      "nama_resmi": "Republik Sierra Leone",
+      "nama_umum": "Sierra Leone",
+      "kode_iso_alpha2": "SL",
+      "kode_iso_alpha3": "SLE",
+      "kode_iso_numerik": "694"
+    },
+    {
+      "nama_resmi": "Republik Singapura",
+      "nama_umum": "Singapura",
+      "kode_iso_alpha2": "SG",
+      "kode_iso_alpha3": "SGP",
+      "kode_iso_numerik": "702"
+    },
+    {
+      "nama_resmi": "Sint Maarten (bagian Belanda)",
+      "nama_umum": "Sint Maarten (Belanda)",
+      "kode_iso_alpha2": "SX",
+      "kode_iso_alpha3": "SXM",
+      "kode_iso_numerik": "534"
+    },
+    {
+      "nama_resmi": "Republik Slowakia",
+      "nama_umum": "Slowakia",
+      "kode_iso_alpha2": "SK",
+      "kode_iso_alpha3": "SVK",
+      "kode_iso_numerik": "703"
+    },
+    {
+      "nama_resmi": "Republik Slovenia",
+      "nama_umum": "Slovenia",
+      "kode_iso_alpha2": "SI",
+      "kode_iso_alpha3": "SVN",
+      "kode_iso_numerik": "705"
+    },
+    {
+      "nama_resmi": "Kepulauan Solomon",
+      "nama_umum": "Kepulauan Solomon",
+      "kode_iso_alpha2": "SB",
+      "kode_iso_alpha3": "SLB",
+      "kode_iso_numerik": "090"
+    },
+    {
+      "nama_resmi": "Republik Somalia",
+      "nama_umum": "Somalia",
+      "kode_iso_alpha2": "SO",
+      "kode_iso_alpha3": "SOM",
+      "kode_iso_numerik": "706"
+    },
+    {
+      "nama_resmi": "Republik Afrika Selatan",
+      "nama_umum": "Afrika Selatan",
+      "kode_iso_alpha2": "ZA",
+      "kode_iso_alpha3": "ZAF",
+      "kode_iso_numerik": "710"
+    },
+    {
+      "nama_resmi": "Georgia Selatan dan Kepulauan Sandwich Selatan",
+      "nama_umum": "Georgia Selatan dan Kepulauan Sandwich Selatan",
+      "kode_iso_alpha2": "GS",
+      "kode_iso_alpha3": "SGS",
+      "kode_iso_numerik": "239"
+    },
+    {
+      "nama_resmi": "Republik Sudan Selatan",
+      "nama_umum": "Sudan Selatan",
+      "kode_iso_alpha2": "SS",
+      "kode_iso_alpha3": "SSD",
+      "kode_iso_numerik": "728"
+    },
+    {
+      "nama_resmi": "Kerajaan Spanyol",
+      "nama_umum": "Spanyol",
+      "kode_iso_alpha2": "ES",
+      "kode_iso_alpha3": "ESP",
+      "kode_iso_numerik": "724"
+    },
+    {
+      "nama_resmi": "Republik Demokratik Sosialis Sri Lanka",
+      "nama_umum": "Sri Lanka",
+      "kode_iso_alpha2": "LK",
+      "kode_iso_alpha3": "LKA",
+      "kode_iso_numerik": "144"
+    },
+    {
+      "nama_resmi": "Negara Sudan",
+      "nama_umum": "Sudan",
+      "kode_iso_alpha2": "SD",
+      "kode_iso_alpha3": "SDN",
+      "kode_iso_numerik": "729"
+    },
+    {
+      "nama_resmi": "Suriname",
+      "nama_umum": "Suriname",
+      "kode_iso_alpha2": "SR",
+      "kode_iso_alpha3": "SUR",
+      "kode_iso_numerik": "740"
+    },
+    {
+      "nama_resmi": "Svalbard dan Jan Mayen",
+      "nama_umum": "Svalbard dan Jan Mayen",
+      "kode_iso_alpha2": "SJ",
+      "kode_iso_alpha3": "SJM",
+      "kode_iso_numerik": "744"
+    },
+    {
+      "nama_resmi": "Swedia",
+      "nama_umum": "Swedia",
+      "kode_iso_alpha2": "SE",
+      "kode_iso_alpha3": "SWE",
+      "kode_iso_numerik": "752"
+    },
+    {
+      "nama_resmi": "Konfederasi Swiss",
+      "nama_umum": "Swiss",
+      "kode_iso_alpha2": "CH",
+      "kode_iso_alpha3": "CHE",
+      "kode_iso_numerik": "756"
+    },
+    {
+      "nama_resmi": "Republik Arab Suriah",
+      "nama_umum": "Suriah",
+      "kode_iso_alpha2": "SY",
+      "kode_iso_alpha3": "SYR",
+      "kode_iso_numerik": "760"
+    },
+    {
+      "nama_resmi": "Provinsi Tiongkok Taiwan",
+      "nama_umum": "Taiwan",
+      "kode_iso_alpha2": "TW",
+      "kode_iso_alpha3": "TWN",
+      "kode_iso_numerik": "158"
+    },
+    {
+      "nama_resmi": "Republik Tajikistan",
+      "nama_umum": "Tajikistan",
+      "kode_iso_alpha2": "TJ",
+      "kode_iso_alpha3": "TJK",
+      "kode_iso_numerik": "762"
+    },
+    {
+      "nama_resmi": "Republik Persatuan Tanzania",
+      "nama_umum": "Tanzania",
+      "kode_iso_alpha2": "TZ",
+      "kode_iso_alpha3": "TZA",
+      "kode_iso_numerik": "834"
+    },
+    {
+      "nama_resmi": "Kerajaan Thailand",
+      "nama_umum": "Thailand",
+      "kode_iso_alpha2": "TH",
+      "kode_iso_alpha3": "THA",
+      "kode_iso_numerik": "764"
+    },
+    {
+      "nama_resmi": "Republik Demokratik Timor-Leste",
+      "nama_umum": "Timor Leste",
+      "kode_iso_alpha2": "TL",
+      "kode_iso_alpha3": "TLS",
+      "kode_iso_numerik": "626"
+    },
+    {
+      "nama_resmi": "Republik Togo",
+      "nama_umum": "Togo",
+      "kode_iso_alpha2": "TG",
+      "kode_iso_alpha3": "TGO",
+      "kode_iso_numerik": "768"
+    },
+    {
+      "nama_resmi": "Tokelau",
+      "nama_umum": "Tokelau",
+      "kode_iso_alpha2": "TK",
+      "kode_iso_alpha3": "TKL",
+      "kode_iso_numerik": "772"
+    },
+    {
+      "nama_resmi": "Kerajaan Tonga",
+      "nama_umum": "Tonga",
+      "kode_iso_alpha2": "TO",
+      "kode_iso_alpha3": "TON",
+      "kode_iso_numerik": "776"
+    },
+    {
+      "nama_resmi": "Trinidad dan Tobago",
+      "nama_umum": "Trinidad dan Tobago",
+      "kode_iso_alpha2": "TT",
+      "kode_iso_alpha3": "TTO",
+      "kode_iso_numerik": "780"
+    },
+    {
+      "nama_resmi": "Republik Tunisia",
+      "nama_umum": "Tunisia",
+      "kode_iso_alpha2": "TN",
+      "kode_iso_alpha3": "TUN",
+      "kode_iso_numerik": "788"
+    },
+    {
+      "nama_resmi": "Republik Turki",
+      "nama_umum": "Turki",
+      "kode_iso_alpha2": "TR",
+      "kode_iso_alpha3": "TUR",
+      "kode_iso_numerik": "792"
+    },
+    {
+      "nama_resmi": "Republik Turkmenistan",
+      "nama_umum": "Turkmenistan",
+      "kode_iso_alpha2": "TM",
+      "kode_iso_alpha3": "TKM",
+      "kode_iso_numerik": "795"
+    },
+    {
+      "nama_resmi": "Kepulauan Turks dan Caicos",
+      "nama_umum": "Kepulauan Turks dan Caicos",
+      "kode_iso_alpha2": "TC",
+      "kode_iso_alpha3": "TCA",
+      "kode_iso_numerik": "796"
+    },
+    {
+      "nama_resmi": "Tuvalu",
+      "nama_umum": "Tuvalu",
+      "kode_iso_alpha2": "TV",
+      "kode_iso_alpha3": "TUV",
+      "kode_iso_numerik": "798"
+    },
+    {
+      "nama_resmi": "Republik Uganda",
+      "nama_umum": "Uganda",
+      "kode_iso_alpha2": "UG",
+      "kode_iso_alpha3": "UGA",
+      "kode_iso_numerik": "800"
+    },
+    {
+      "nama_resmi": "Ukraina",
+      "nama_umum": "Ukraina",
+      "kode_iso_alpha2": "UA",
+      "kode_iso_alpha3": "UKR",
+      "kode_iso_numerik": "804"
+    },
+    {
+      "nama_resmi": "Uni Emirat Arab",
+      "nama_umum": "Uni Emirat Arab",
+      "kode_iso_alpha2": "AE",
+      "kode_iso_alpha3": "ARE",
+      "kode_iso_numerik": "784"
+    },
+    {
+      "nama_resmi": "Kerajaan Inggris Raya dan Irlandia Utara",
+      "nama_umum": "Inggris Raya",
+      "kode_iso_alpha2": "GB",
+      "kode_iso_alpha3": "GBR",
+      "kode_iso_numerik": "826"
+    },
+    {
+      "nama_resmi": "Amerika Serikat",
+      "nama_umum": "Amerika Serikat",
+      "kode_iso_alpha2": "US",
+      "kode_iso_alpha3": "USA",
+      "kode_iso_numerik": "840"
+    },
+    {
+      "nama_resmi": "Kepulauan Terluar Kecil Amerika Serikat",
+      "nama_umum": "Kepulauan Terluar Kecil Amerika Serikat",
+      "kode_iso_alpha2": "UM",
+      "kode_iso_alpha3": "UMI",
+      "kode_iso_numerik": "581"
+    },
+    {
+      "nama_resmi": "Republik Oriental Uruguay",
+      "nama_umum": "Uruguay",
+      "kode_iso_alpha2": "UY",
+      "kode_iso_alpha3": "URY",
+      "kode_iso_numerik": "858"
+    },
+    {
+      "nama_resmi": "Republik Uzbekistan",
+      "nama_umum": "Uzbekistan",
+      "kode_iso_alpha2": "UZ",
+      "kode_iso_alpha3": "UZB",
+      "kode_iso_numerik": "860"
+    },
+    {
+      "nama_resmi": "Republik Vanuatu",
+      "nama_umum": "Vanuatu",
+      "kode_iso_alpha2": "VU",
+      "kode_iso_alpha3": "VUT",
+      "kode_iso_numerik": "548"
+    },
+    {
+      "nama_resmi": "Republik Bolivarian Venezuela",
+      "nama_umum": "Venezuela",
+      "kode_iso_alpha2": "VE",
+      "kode_iso_alpha3": "VEN",
+      "kode_iso_numerik": "862"
+    },
+    {
+      "nama_resmi": "Republik Sosialis Vietnam",
+      "nama_umum": "Vietnam",
+      "kode_iso_alpha2": "VN",
+      "kode_iso_alpha3": "VNM",
+      "kode_iso_numerik": "704"
+    },
+    {
+      "nama_resmi": "Kepulauan Virgin Britania",
+      "nama_umum": "Kepulauan Virgin Britania",
+      "kode_iso_alpha2": "VG",
+      "kode_iso_alpha3": "VGB",
+      "kode_iso_numerik": "092"
+    },
+    {
+      "nama_resmi": "Wallis dan Futuna",
+      "nama_umum": "Wallis dan Futuna",
+      "kode_iso_alpha2": "WF",
+      "kode_iso_alpha3": "WLF",
+      "kode_iso_numerik": "876"
+    },
+    {
+      "nama_resmi": "Sahara Barat",
+      "nama_umum": "Sahara Barat",
+      "kode_iso_alpha2": "EH",
+      "kode_iso_alpha3": "ESH",
+      "kode_iso_numerik": "732"
+    },
+    {
+      "nama_resmi": "Republik Yemen",
+      "nama_umum": "Yaman",
+      "kode_iso_alpha2": "YE",
+      "kode_iso_alpha3": "YEM",
+      "kode_iso_numerik": "887"
+    },
+    {
+      "nama_resmi": "Republik Zambia",
+      "nama_umum": "Zambia",
+      "kode_iso_alpha2": "ZM",
+      "kode_iso_alpha3": "ZMB",
+      "kode_iso_numerik": "894"
+    },
+    {
+      "nama_resmi": "Republik Zimbabwe",
+      "nama_umum": "Zimbabwe",
+      "kode_iso_alpha2": "ZW",
+      "kode_iso_alpha3": "ZWE",
+      "kode_iso_numerik": "716"
+    }
+  ]
+}
